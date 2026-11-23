@@ -1,0 +1,6 @@
+{
+  "name": "Digital Footprint Visualizer",
+  "description": "Personal Cybersecurity Officer platform for monitoring digital exposure, mapping online footprint risks, and completing guided privacy remediation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
